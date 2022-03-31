@@ -29,14 +29,14 @@
                 <font style="vertical-align:inherit;">INDEX</font>
             </h2>
             <ul>
-                <li><a href="1">1. Musical Carrer</a></li>
-                <li><a href="2">2. Discography</a></li>
-                <li><a href="2.1">2.1 Albums </a></li>
-                <li><a href="2.2">2.2 Simple </a></li>
-                <li><a href="2.3">2.3 Remixes </a></li>
-                <li><a href="2.4">2.4 Others </a></li>
-                <li><a href="3">3. References </a></li>
-                <li><a href="4">4. External links</a></li>
+                <li><a href="#1">1. Musical Carrer</a></li>
+                <li><a href="#2">2. Discography</a></li>
+                <li><a href="#2.1">2.1 Albums </a></li>
+                <li><a href="#2.2">2.2 Simple </a></li>
+                <li><a href="#2.3">2.3 Remixes </a></li>
+                <li><a href="#2.4">2.4 Others </a></li>
+                <li><a href="#3">3. References </a></li>
+                <li><a href="#4">4. External links</a></li>
             </ul>
         </nav>
 
@@ -110,7 +110,8 @@
 
 <h3>Discography</h3>
 <p id="2">
-   <h4> Albums </h4>
+   <h4> Albums  </h4>
+   <p id="2.1">
        <ul>
            <li> Leave The Story Untold (1996) (produced by Chris Goss)</li>
            <li> Much Against Everyone's Advice (1999)</li>
@@ -122,8 +123,9 @@
            <li> Essential (2018)</li>
             
         </ul>
-
-        <h4>Simple</h4>
+   </p>
+        <h4>Simples</h4>
+        <p id="2.2">
         <TABLE border = 4 cellspacing = 4 cellpadding = 4 width =80%> 
             <TH align = center> Year 
                 <TH align = center > Song 
@@ -186,8 +188,8 @@
                 <TR>
 
                 </TABLE>
-
-    <h4>Remixes</h4>
+        </p>
+    <h4><p Remixes id="2.3"></p> Remixes</h4>
     <p>1997:</p>
     <li>
         <a href="https://es.wikipedia.org/wiki/Einst%C3%BCrzende_Neubauten">Einstürzende Neubauten </a> - "Stella Maris"
@@ -212,14 +214,14 @@
 <li>Playgroup – "Make It Happen"</li>
 
 <p>2004:</p>
-<li> <a href="https://es.wikipedia.org/wiki/Felix_da_Housecat">Felix da Housecat – "Rocket Ride"</li>
+<li> <a href="https://es.wikipedia.org/wiki/Felix_da_Housecat">Felix da Housecat </a> – "Rocket Ride"</li>
 <li> <a href="https://es.wikipedia.org/wiki/LCD_Soundsystem">LCD Soundsystem </a> – "Daft Punk Is Playing At My House" </li>
 <li> <a href="https://es.wikipedia.org/wiki/Miss_Kittin"> Miss Kittin </a> – "Requiem for a Hit" (2 Many DJs Remix) </li>
 
 <p>2005:</p>
 <li> <a href="https://es.wikipedia.org/wiki/Daft_Punk"> Daft Punk </a> <a href="https://es.wikipedia.org/wiki/Robot_Rock"> – " Robot Rock " </a> </li>
-
-
+<li> <a href="https://es.wikipedia.org/wiki/Gorillaz"> Gorillaz </a> <a href="https://es.wikipedia.org/wiki/Dare_(canci%C3%B3n)">– " Dare "</a></li>
+<li> <a href="https://es.wikipedia.org/wiki/Basement_Jaxx"> Basement Jaxx </a> – "Magnificent Romeo" (2 Many DJ's Remix) </li>
 
 
 </body>
