@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-
-    <title>Soulwax, from Wikipedia the free encyclopedia </title>
-
-</head>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Soulwax, from Wikipedia the free encyclopedia</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
 
 <body>
 
+    
     <table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;">
         <tbody>
             <tr>
@@ -344,7 +349,7 @@
     </header>
 
     <h3> Musical Carrer </h3>
-    <p id="1">The Any Minute Now album released three singles "E Talking", "NY Excuse" and "Any Minute Now". The duo
+    <p id="1"><article>The Any Minute Now album released three singles "E Talking", "NY Excuse" and "Any Minute Now". The duo
         have also produced a large number of known and unknown remixes, including <a
             href="https://es.wikipedia.org/wiki/LCD_Soundsystem">LCD Soundsystem 's "</a> <a
             href="https://es.wikipedia.org/w/index.php?title=Daft_Punk_Is_Playing_At_My_House&action=edit&redlink=1">
@@ -387,7 +392,7 @@
         electro band <a href="https://es.wikipedia.org/w/index.php?title=Crookers&action=edit&redlink=1"> Crookers </a>,
         included on the <i>Tons of Friends</i>
         album .
-    </p>
+    </article></p>
     <figure>
         <img src="https://www.places-concert.com/images/visuels/artistes_2manydjs_15082018160744.jpg" alt="Group photo">
         <figcaption>
@@ -582,12 +587,17 @@
 
     <h3>Others</h3>
     <p Others id="2.4"></p>     
-    <li>The song "Theme from Discotheque" from 2001 is by David and Stephen Dewaele under the name <strong> Samantha Fu </strong> . They produced this song for a dance group from Ghent called <i> Kung Fu </i> .</li>
+    <article><li>The song "Theme from Discotheque" from 2001 is by David and Stephen Dewaele under the name <strong> Samantha Fu </strong> . They produced this song for a dance group from Ghent called <i> Kung Fu </i> .</li>
+    <li>In 2004 Soulwax made the soundtrack compilation for the Belgian movie "Steve+Sky". They also contributed three instrumental tracks under the <i> Kawazaki </i> name .</li>
+    <li>He collaborated on the soundtrack of the video game Grand Theft Auto V, carrying his eponymous station, Soulwax FM.</li></article>
 
 
+     <h3>References</h3>
+     <p id="3">
+         <li> 1.<a href="http://www.officialcharts.com/artist/_/Soulwax"> "Artist Chart History > Soulwax".</a><a href="https://es.wikipedia.org/wiki/The_Official_Charts_Company"> The Official Charts Company.</a> </li>
+        </p>
 
-
-
+    
 
 
 
